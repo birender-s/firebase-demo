@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>promo_enabled</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>promo_message</key>
+        <value>Sale is On!</value>
+    </entry>
+</defaultsMap>
