@@ -1,4 +1,4 @@
-# firebase-demo
+# Firebase-demo
 sample Android App covering Firebase features like Firebase Analytics, Firebase ConfigApp, Firebase Authentication
 
 ## google-services.json
